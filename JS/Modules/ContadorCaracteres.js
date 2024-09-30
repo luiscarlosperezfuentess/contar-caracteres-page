@@ -1,0 +1,4 @@
+﻿var ContadorCaracteres = ContadorCaracteres ||
+{
+
+}
