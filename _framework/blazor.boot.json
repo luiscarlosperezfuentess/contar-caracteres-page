@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ContarCaracteres",
   "resources": {
-    "hash": "sha256-QBFvkTeIFCSVnIDl9lONCwuzz/SPlno9zhnI+rOdCvs=",
+    "hash": "sha256-bueX1Mh2A7EkFQdbGxV8nQSIzavikzOikq1cb+QR0Rw=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.1zx0f51w86.js": "sha256-hSocI2KeIhqnZ3dmDXL+yHUVpipxLHux0YMOtn6hOys="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "ContarCaracteres.wasm": "sha256-Y8RVfDnncn0RgdwfoVaDbO2XESFt2FSBgvYRpiL8Pjg=",
+      "ContarCaracteres.wasm": "sha256-tDVaOrzZuF56cKixWLgcMSaQmGse4LkZB6/dS96Ytsw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-QYfiXFyHVeo/urSD/NOb66sevWs8gsJYqv77F7yMiME=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-spyk6aOlBqGuXrgkag654fMJljJemLYToKEcwC5Nvgo=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Q4gQS+wAI/o1p0ABACPX+vUj06GrNg33CWKIBqv9S0w=",
